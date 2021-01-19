@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205434683916",
+    "project_id": "tetris-ef958",
+    "storage_bucket": "tetris-ef958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205434683916:android:0d42cad9b290c2a28ae429",
+        "android_client_info": {
+          "package_name": "ipca.tetris.projetocm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205434683916-le0qmqrkjs1bocjr1eml46cmqcts8ams.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1dCTnrhiYWcvHQj0RqD2RIpfrR0dsHas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205434683916-le0qmqrkjs1bocjr1eml46cmqcts8ams.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
